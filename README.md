@@ -1,5 +1,7 @@
 # GurtDeco
 
+![all](https://img.shields.io/github/downloads/elligurt/GurtDeco/total)
+
 ────୨ৎ────
 
 A mod made in 15 mins for fun, adds my monke on ontop of the GorillaOS computer.
